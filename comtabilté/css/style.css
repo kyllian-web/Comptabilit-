@@ -1,0 +1,22 @@
+.entete{
+    height: 200px;
+    display: flex;
+    text-align: center;
+    margin: auto;
+}
+.legend{
+    font-size: large;
+}
+.question{
+    padding: 15px;
+}
+.reponse{
+    padding-left: 50px;
+    padding-top: 10px;
+}
+.chiffre{
+    color: rgb(74, 89, 255);
+}
+ul li{
+    list-style-type: decimal;
+}
